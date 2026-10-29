@@ -1,0 +1,7 @@
+﻿test_id,scenario,expected_behavior,input_filename,actual_result,pass_fail,note
+T01,고양이만,cat 수 표시,,,,
+T02,개만,dog 수 표시,,,,
+T03,개와 고양이,두 수 표시,,,,
+T04,동물 없음,0건 기록,,,,
+T05,가려진 동물,누락 기록,,,,
+T06,없는 이미지 폴더,오류 안내,,,,
